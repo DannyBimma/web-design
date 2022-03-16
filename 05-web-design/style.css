@@ -105,7 +105,21 @@ img {
 }
 
 /* FEATURES */
-.features-icon {
+.info-icon {
+  stroke: #c2255c;
+  width: 24px;
+  height: 24px;
+  margin-bottom: 16px;
+}
+
+.tab-icon {
+  stroke: #c2255c;
+  width: 24px;
+  height: 24px;
+}
+
+.tab-info {
+  font-size: 18px;
 }
 
 .features-title {
@@ -172,9 +186,6 @@ h3 {
 
 .chair-details li:last-child {
   margin-bottom: 0;
-}
-
-.chair-icon {
 }
 
 .chair-price {
